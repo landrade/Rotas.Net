@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Routes", "Routes\Routes.csproj", "{9B5D918B-E913-4CB7-9B34-D1538347F448}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesTest", "RoutesTest\RoutesTest.csproj", "{26963A2A-AD6F-4B52-A4A4-760DA9595087}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoutesWebServices", "RoutesWebServices\RoutesWebServices.csproj", "{86E6F07D-1B5D-4405-98C2-6E11F3F77913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5D918B-E913-4CB7-9B34-D1538347F448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5D918B-E913-4CB7-9B34-D1538347F448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5D918B-E913-4CB7-9B34-D1538347F448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5D918B-E913-4CB7-9B34-D1538347F448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26963A2A-AD6F-4B52-A4A4-760DA9595087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26963A2A-AD6F-4B52-A4A4-760DA9595087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26963A2A-AD6F-4B52-A4A4-760DA9595087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26963A2A-AD6F-4B52-A4A4-760DA9595087}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86E6F07D-1B5D-4405-98C2-6E11F3F77913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E6F07D-1B5D-4405-98C2-6E11F3F77913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E6F07D-1B5D-4405-98C2-6E11F3F77913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E6F07D-1B5D-4405-98C2-6E11F3F77913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
